@@ -74,13 +74,13 @@
                     <field name="NUM">5000</field>
                   </block>
                 </value>
+                <next>
+                  <block type="movement_stop" id="26"></block>
+                </next>
               </block>
             </next>
           </block>
         </statement>
-        <next>
-          <block type="movement_stop" id="26"></block>
-        </next>
       </block>
     </statement>
   </block>
